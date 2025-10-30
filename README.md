@@ -15,4 +15,4 @@ This work was mainly supported by a grant from [The Swedish-Norwegian Foundation
 Raw sequencing data for this project is available at [BioProject ID: PRJNA1354409](https://dataview.ncbi.nlm.nih.gov/object/PRJNA1354409). 
 
 # Instructions
-The table of contents is numbered sequentially according to the main text of the publication. Each script and its corresponding data are located in the same folder.
+The analysis directories are numbered sequentially according to the main text of the publication. Each script and its corresponding data are located in the same folder.
