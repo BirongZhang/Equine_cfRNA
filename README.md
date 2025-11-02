@@ -1,6 +1,11 @@
 # Equine_cfRNA
 Cell free RNA Transcript Analysis Script for Equine Asthma at the Molecular Precision Medicine research group, Uppsala University.
 
+In this study, we performed the first characterization of plasma cfRNA in horses and compared cfRNA with partially matched BAL and whole blood (WB) transcriptomes. The aims were to:
+**(i)** define the cellular and tissue contributions to the cfRNA pool in both healthy horses and EA (external endothelial cells);
+**(ii)** identify differentially expressed transcripts and pathways;
+**(iii)** characterize shared and distinct gene signatures of cfRNA with BAL and WB to identify unique cfRNA-derived molecular insights into EA. 
+
 # Citation
 This is a public repository containing scripts for the analysis described in the publication:
 
@@ -17,9 +22,4 @@ This work was mainly supported by a grant from [The Swedish-Norwegian Foundation
 Raw sequencing data for this project is available at [BioProject ID: PRJNA1354409](https://dataview.ncbi.nlm.nih.gov/object/PRJNA1354409). 
 
 # Instructions
-In this study, we performed the first characterization of plasma cfRNA in horses and compared cfRNA with partially matched BAL and whole blood (WB) transcriptomes. The aims were to:
-(i) define the cellular and tissue contributions to the cfRNA pool in both healthy horses and EA (external endothelial cells);
-(ii) identify differentially expressed transcripts and pathways;
-(iii) characterize shared and distinct gene signatures of cfRNA with BAL and WB to identify unique cfRNA-derived molecular insights into EA. 
-
 The code here primarily performs cell deconvolution analysis, principal component analysis, differentially expressed gene analysis, pathway analysis, and comparisons between different sections of cfRNA. All code is based on R (R version 4.5.0), and the required R packages are listed at the beginning of each code segment. The analysis directories are numbered sequentially according to the main text of the publication. Each script and its corresponding data are located in the same folder.
