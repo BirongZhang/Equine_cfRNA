@@ -1,7 +1,7 @@
 # Equine_cfRNA
 Cell free RNA Transcript Analysis Script for Equine Asthma at the Molecular Precision Medicine research group, Uppsala University.  
 
-In this study, we performed the first characterization of plasma cfRNA in horses and compared cfRNA with partially matched BAL and whole blood (WB) transcriptomes.  
+In this study, we performed the first characterization of plasma cfRNA in horses and compared circulating cell-free RNA (cfRNA)  with partially matched bronchoalveolar lavage (BAL) and whole blood (WB) transcriptomes.  
 The aims were to:
 
 1. **Define the cellular and tissue contributions to the cfRNA pool in both healthy horses and EA (external endothelial cells);**
