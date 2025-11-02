@@ -15,7 +15,7 @@ This is a public repository containing scripts for the analysis described in the
 
 **Circulating cell-free RNA reflects inflammatory and airway remodeling signatures in an equine model of asthma**
 
-Birong Zhang, Hanna Agdour, Miia Riihimäki, Sanni Hansen, Amanda Raine
+**Birong Zhang, Hanna Agdour, Miia Riihimäki, Sanni Hansen, Amanda Raine**
 
 The preprint has posted on [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.10.25.684590v1).
 
