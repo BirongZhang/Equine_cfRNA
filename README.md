@@ -26,4 +26,5 @@ This work was mainly supported by a grant from [The Swedish-Norwegian Foundation
 Raw sequencing data for this project is available at [BioProject ID: PRJNA1354409](https://dataview.ncbi.nlm.nih.gov/object/PRJNA1354409). 
 
 # Instructions
-The code here primarily performs cell deconvolution analysis, principal component analysis, differentially expressed gene analysis, pathway analysis, and comparisons between different sections of cfRNA. All code is based on R (R version 4.5.0), and the required R packages are listed at the beginning of each code segment. The analysis directories are numbered sequentially according to the main text of the publication. Each script and its corresponding data are located in the same folder.
+The code here primarily performs cell deconvolution analysis, principal component analysis, differentially expressed gene analysis, pathway analysis of cfRNA.  
+All code is based on R (R version 4.5.0), and the required R packages are listed at the beginning of each code segment. The analysis directories are numbered sequentially according to the main text of the publication. Each script and its corresponding data are located in the same folder.
